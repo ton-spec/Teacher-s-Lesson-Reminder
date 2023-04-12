@@ -25,10 +25,10 @@ timetable = {
         # ... rest of the timetable
     },
     "Thursday": {
-        # ... Tuesday timetable
+        # ... Thursday timetable
     },
     "Friday": {
-        # ... Wednesday timetable
+        # ... Friday timetable
     },
     # ... rest of the days
 }
